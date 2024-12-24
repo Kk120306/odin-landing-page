@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F2937;
+    font-family: "Roboto";
+}
+
+.ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
